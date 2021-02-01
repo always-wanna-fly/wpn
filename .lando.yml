@@ -1,0 +1,4 @@
+name: wpn
+recipe: wordpress
+config:
+  webroot: wordpress
